@@ -26,7 +26,7 @@
 ## `whoami`
 
 ```txt
-name        : oCloud
+name        : oCloud (Tran Quoc Khanh)
 role        : Developer
 stack       : Java, Node.js
 projects    : CloudMC, oCloudTaiXiu
