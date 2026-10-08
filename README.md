@@ -37,18 +37,6 @@ I enjoy building Minecraft-related projects and software that is simple, useful 
 
 ---
 
-## `projects`
-
-### ☁️ CloudMC
-
-Minecraft-related project currently under development.
-
-### 🎲 oCloudTaiXiu
-
-Another project from the oCloud ecosystem.
-
----
-
 ## `stack`
 
 <p>
